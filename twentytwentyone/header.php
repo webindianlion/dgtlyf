@@ -18,6 +18,7 @@
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<?php wp_head(); ?>
+	<link rel='stylesheet' id='twenty-twenty-one-style-css'  href='http://localhost/dgtlyf/wp-content/themes/twentytwentyone/dgtlyf.css' media='all' />
 </head>
 
 <body <?php body_class(); ?>>
